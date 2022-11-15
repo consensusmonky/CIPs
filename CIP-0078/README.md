@@ -2,7 +2,7 @@
 CIP: 78
 Title: A standard for smart and programmable NFTs
 Authors: Phillip Sailer <@consensusmonky, @DIENAY_IO>
-Comments-URI:
+Comments-URI: https://forum.cardano.org/t/cip-0078-a-standard-for-smart-and-programmable-nfts/110363
 Status: Draft
 Type: Process
 Created: 2022-11-15
