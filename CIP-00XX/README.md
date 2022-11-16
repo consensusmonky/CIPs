@@ -1,8 +1,8 @@
 ---
-CIP: 78
+CIP: XX
 Title: A standard for smart and programmable NFTs
 Authors: Phillip Sailer <@consensusmonky, @DIENAY_IO>
-Comments-URI: https://forum.cardano.org/t/cip-0078-a-standard-for-smart-and-programmable-nfts/110363
+Comments-URI: https://forum.cardano.org/t/cip-00xx-a-standard-for-smart-and-programmable-nfts/110363/3
 Status: Draft
 Type: Process
 Created: 2022-11-15
@@ -171,7 +171,7 @@ Let's go more in detail a little bit.
 
 ### Overview
 
-![Alt text](cip_overview.png?raw=true "CIP-0078 overview")
+![Alt text](cip_overview.png?raw=true "CIP-00XX overview")
 ## Explanation
 
 The standard defines an common interface for iNFTs. The following is a first idea with basic functions, that every iNFT needs to implement. Each single function will be explained more in detail below.
